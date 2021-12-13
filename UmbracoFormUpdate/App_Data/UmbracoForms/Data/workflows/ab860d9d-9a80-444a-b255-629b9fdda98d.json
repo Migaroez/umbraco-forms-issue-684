@@ -1,0 +1,10 @@
+{
+  "id": "ab860d9d-9a80-444a-b255-629b9fdda98d",
+  "name": "update",
+  "form": "58bade14-46ec-4884-917f-544e66c708b6",
+  "active": true,
+  "workflowTypeId": "83b6e13a-f704-4813-94a2-a8ccee2dce0d",
+  "executesOn": "Submitted",
+  "settings": {},
+  "sortOrder": 1
+}
